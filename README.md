@@ -3,7 +3,7 @@
 **🤟🏻Prueba técnica para los futuros instructores y facilitadores de UDD 🤓💻**
 
 📝El objetivo del test técnico es construir un Front-End y un Back-End que interactuen con una API externa.
-``
+
 👀Vamos a usar la API pública de **Mercado Libre**. De ella vamos a extraer publicaciones que luego vamos a guardar en tu propio back-end usando un caché. Para el Front-end vamos a desarrollar una serie de Componentes de React para poder mostrar e interactuar con las publicaciones antes mencionadas.
 
 # Back-end
@@ -92,6 +92,6 @@ Este componente va mostrar un arreglo de productos (obtenidos de la API) usando 
 - Poder paginar los resultados de a 30 productos por página.
 
 #### Notas
-Crear un repo nuevo público en tu GitHub y comparteme tu proyecto, así mismo, graba en un Loom la explicación de la construcción de tu proyecto realizado. en el siguiente correo < nancy.nava@utel.edu.mx > una vez que hayas terminado.
+Crear un repo nuevo público en tu GitHub y sube ahí tu proyecto, así mismo, graba en un Loom[loom.com] la explicación de la construcción de tu proyecto realizado, ambas cosas (proyecto y video) enviámelos al siguiente correo < ana.osorio@scalalearning.com > una vez que hayas terminado.
 
 Puedes usar cualquier librería extra para resolver este technical test, ya sea de front-end o de back-end. Te recomiendo usar alguna librería de front-end (Boostrap, Materialize, etc.).
